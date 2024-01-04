@@ -2,10 +2,10 @@
 ### I'm Aleksey, a backend developer 👨‍💻 working since 2022 📟  
   
 
-- 🔧 I’m currently working on Alvile  
+- 🔧 I’m currently working on Rombal
   
 
--  🧑‍🎓I’m currently learning C# and Go  
+-  🧑‍🎓I work in Goalng  
 
 
 -  ✉️ My mail: nekqga@gmail.com
@@ -35,10 +35,6 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ameag&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
 
 
 
