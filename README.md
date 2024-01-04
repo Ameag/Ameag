@@ -2,11 +2,8 @@
 ### I'm Aleksey, a backend developer 👨‍💻 working since 2022 📟  
   
 
-- 🔧 I’m currently working on Rombal
+- 🔧 I’m currently working in Rombal
   
-
--  🧑‍🎓I work in Goalng  
-
 
 -  ✉️ My mail: nekqga@gmail.com
 
