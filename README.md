@@ -9,7 +9,7 @@
 
 
 -  📡 Other contact methodsㅤ<a href="https://t.me/Ameagg" target="_blank"> <img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF" alt=Telegram style="margin-bottom: 5px;" />
-</a>  <a href="https://vk.com/akuchin2016" target="_blank"> <img src="https://img.shields.io/badge/Вконтакте-4682B4?style=for-the-badge&logo=VK&logoColor=FFFFFF" alt=Вконтакте style="margin-bottom: 5px;" />
+</a>  <a href="https://vk.com/ameag" target="_blank"> <img src="https://img.shields.io/badge/Вконтакте-4682B4?style=for-the-badge&logo=VK&logoColor=FFFFFF" alt=Вконтакте style="margin-bottom: 5px;" />
 </a>  
   
 
