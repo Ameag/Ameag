@@ -1,5 +1,5 @@
 
-### I'm Aleksey, a backend developer 👨‍💻 working since 2022 📟  
+### Processing data💪📟  
   
 
 - 🔧 I’m currently working in Rombal
