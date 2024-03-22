@@ -2,7 +2,7 @@
 ### Processing data💪📟  
   
 
-- 🔧 I’m currently working in Rombal
+- I’m currently working on "Wakadoo"
   
 
 -  ✉️ My mail: nekqga@gmail.com
